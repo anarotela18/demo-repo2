@@ -1,0 +1,41 @@
+commit 7f2df5a423f749b20297b4a9b2a0ee0e002fca66
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Tue Aug 20 22:54:11 2019 -0400
+
+    Se agrego un parrafo y se cambio los estilos del boton
+
+commit 242d498231214b4e927cc7f10099f1b1048a2c78
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Tue Aug 20 22:51:43 2019 -0400
+
+    Agregamos twitter a la pagina
+
+commit 120f1eb3c993186b562b783bc2c9ccd23ed25864
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Tue Aug 20 22:50:32 2019 -0400
+
+    Iniciamos
+
+commit bc96f9ce03abad25793acb0b2c02e394aee934fb
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Tue Aug 20 08:53:42 2019 -0400
+
+    Se agrego un parrafo
+
+commit d59512c5e1d7e873e25985122d2f6217ec577177
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Sun Aug 18 23:20:40 2019 -0400
+
+    He agregado un gitignore
+
+commit 30b70097c3f65180bf41ae31bb02e1bd765ed3bc
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Sun Aug 18 23:04:23 2019 -0400
+
+    Ahora el index.html tiene codigo html
+
+commit 6dc27de8f323ee1f8544339748313bce1715551a
+Author: Ana Rotela <anarotela18@gmail.com>
+Date:   Sun Aug 18 22:56:43 2019 -0400
+
+    mi primer commit
